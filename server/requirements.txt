@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-auth
+requests
+httpx
+python-jose[cryptography]
+python-dotenv
+starlette-sessions

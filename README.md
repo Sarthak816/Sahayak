@@ -21,9 +21,7 @@ Instead of configuring rigid rule-based automations, users describe what they wa
 
 ## Demo
 
-> 🎥 *[Add demo video link here]*
-> 📸 *[Add screenshots here]*
-
+> https://www.youtube.com/watch?v=PgYZooBt1YM&t=10s
 ---
 
 ## Key Metrics
@@ -176,17 +174,3 @@ Built during **Smart India Hackathon 2025** as Team Leader of a 4-person enginee
 - Async architecture is non-negotiable when LLM latency is in the critical path
 - Leadership under pressure means making hard calls fast and explaining why clearly
 
----
-
-## Author
-
-**Sarthak Pal**
-- GitHub: [@Sarthak816](https://github.com/Sarthak816)
-- LinkedIn: [sarthak-pal-70a00a301](https://linkedin.com/in/sarthak-pal-70a00a301)
-- Portfolio: [sarthak-pal-portfolio.vercel.app](https://sarthak-pal-portfolio.vercel.app)
-
----
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.

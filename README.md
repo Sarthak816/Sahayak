@@ -19,9 +19,7 @@ Instead of configuring rigid rule-based automations, users describe what they wa
 
 ---
 
-## Demo
-
-> https://www.youtube.com/watch?v=PgYZooBt1YM&t=10s
+## Watch Wakthrough here: https://www.youtube.com/watch?v=PgYZooBt1YM
 ---
 
 ## Key Metrics
